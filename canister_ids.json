@@ -1,0 +1,11 @@
+{
+  "nft_backend": {
+    "ic": "4aos4-baaaa-aaaal-qbxta-cai"
+  },
+  "opend_backend": {
+    "ic": "4hpui-myaaa-aaaal-qbxtq-cai"
+  },
+  "opend_frontend": {
+    "ic": "5kbqg-dqaaa-aaaal-qbxua-cai"
+  }
+}
